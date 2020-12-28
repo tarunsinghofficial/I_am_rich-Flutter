@@ -1,4 +1,4 @@
-# first
+# I am Rich (Flutter)
 
 A new Flutter application.
 
